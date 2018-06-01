@@ -9,12 +9,6 @@ namespace Framework.Caching.Impl
     using System.Runtime.Caching;
 
     using Framework.Caching;
-
-    using Framework.Caching;
-
-    using Framework.Caching;
-
-    using Framework.Caching;
     using Framework.Ioc;
     using Framework.Serialization.Json;
 
